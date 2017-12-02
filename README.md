@@ -1,3 +1,3 @@
 # BrewersFurniture.co.uk
 
-Published in September of 2004, this was my second website. Although much simpler than the first, I still enjoyed working on it.
+Published in September of 2004, this simple website gave me more experience of working with clients to develop a site they want.
